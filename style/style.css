@@ -8,7 +8,7 @@
 .container{
     width: 100%;
     height: 100vh;
-    background-image: url("https://cdn.dribbble.com/users/2558657/screenshots/13671346/media/f7165bf5e0997c07c23ffe904aeff7bf.png?resize=1200x900&vertical=center");
+    background-image: url(../images/background.png);
     background-position: center;
     background-size: cover;
     padding: 0 7%;
